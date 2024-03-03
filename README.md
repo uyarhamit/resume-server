@@ -1,4 +1,4 @@
-## What this app does
+## What does this app do?
 
 This application help to connect with mysql database and help for CRUD actions.
 
